@@ -1,4 +1,4 @@
-# Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+# Ex. No.5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 
 
 ## AIM:
@@ -113,8 +113,8 @@ a spool refers to a roll of filament that is used as the printing material for t
 ## Playing with Axis:
 ![Screenshot 2023-05-25 172729](https://github.com/BaskaranV15/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118703522/8231685d-7478-4379-b8af-94d84cdce15c)
 
-### Name:PRAVEEN S
-### Register Number:212222240077
+### Name: NAVEEN KUMAR M
+### Register Number: 212222110028
 
 ## Result: 
 Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
